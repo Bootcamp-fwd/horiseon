@@ -23,7 +23,7 @@
 - [📍 Overview](#-overview)
 - [📦 Features](#-features)
 - [📂 Repository Structure](#-repository-structure)
-- [⚙️ Modules](#-modules)
+- [⚙️ Modules](#%EF%B8%8F-modules)
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running Horiseon](#-running-horiseon)
