@@ -44,6 +44,7 @@ header nav ul li {
 
 header nav ul li a:hover {
   text-decoration: underline;
+  color: #c3c3c3
 }
 
 #seo {
