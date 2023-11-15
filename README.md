@@ -110,7 +110,7 @@ cd horiseon
 ```
 
 ### 🧪 Live Demo
-► [Horiseon Demo](https://pmadriaan.github.io/horiseon/)
+► [Horiseon Demo](https://bootcamp-fwd.github.io/horiseon/)
 
 ## Screenshot
 
